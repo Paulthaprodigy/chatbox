@@ -1,7 +1,7 @@
 var questions = [
-    'Whats your name ?',
+    'What is your name ?',
     'Where are you from?',
-    'What\'s your age?',
+    'What is your age?',
     'What stack are you in?',
     'It was nice talking you :)'
 ];
